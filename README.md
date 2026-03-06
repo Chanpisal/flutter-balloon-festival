@@ -56,13 +56,16 @@ These concepts are used to create smooth animations, user interaction, and respo
 
 ---
 
-# 🗂 Project Structure
+## 📁 Project Structure
+
+```
 lib/
 ├── main.dart
 ├── pages/
-│ └── home.dart
+│   └── home.dart
 └── widgets/
-└── animated_balloon.dart
+    └── animated_balloon.dart
+```
 
 **main.dart**  
 Entry point of the Flutter application.
