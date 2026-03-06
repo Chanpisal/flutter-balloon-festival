@@ -1,16 +1,27 @@
-# animation_controller
+# Balloon Festival Animation
 
-A new Flutter project.
+This project is a Flutter animation application that demonstrates the use of AnimationController and other Flutter animation features.
 
-## Getting Started
+## Features
+- Balloon floating animation
+- Balloon rotation and pulse animation
+- Balloon burst sequence animation
+- Animated cloud background
+- Multiple balloons with different behaviors
+- User interaction (tap, drag, pinch)
+- Sound effects (wind, inflate, pop)
 
-This project is a starting point for a Flutter application.
+## Flutter Concepts Used
+- AnimationController
+- Tween
+- CurvedAnimation
+- AnimatedBuilder
+- GestureDetector
+- TickerProviderStateMixin
+- Stack and Positioned
+- MediaQuery
+- CustomPainter
+- Transform widgets
+- AudioPlayer
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
