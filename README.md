@@ -25,3 +25,9 @@ This project is a Flutter animation application that demonstrates the use of Ani
 - AudioPlayer
 
 ## Project Structure
+lib/
+├── main.dart
+├── pages/
+│ └── home.dart
+└── widgets/
+└── animated_balloon.dart
